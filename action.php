@@ -14,7 +14,7 @@ require_once DOKU_PLUGIN.'action.php';
 require_once DOKU_PLUGIN.'piwik2/code.php';
 
 class action_plugin_piwik2 extends DokuWiki_Action_Plugin {
-	function register(&$controller) {
+	function register(Doku_Event_Handler $controller) {
 		$controller->register_hook('TPL_METAHEADER_OUTPUT', 'BEFORE', $this, '_hook_header');
 	}
 
