@@ -5,7 +5,7 @@
  * Default values for the piwik2 plugin configuration fields in admin area
  *
  * @license GPLv3 (http://www.gnu.org/licenses/gpl.html)
- * @author Marcel Lange <info@aasgard.de>
+ * @author  Marcel Lange <info@ask-sheldon.con>
  */
 $conf['track_admin_user'] = 0;
 $conf['track_user'] = 1;

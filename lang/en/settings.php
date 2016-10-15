@@ -5,7 +5,7 @@
  * Field descriptions for plugin configuration in plugin manager interface
  *
  * @license GPLv3 (http://www.gnu.org/licenses/gpl.html)
- * @author Marcel Lange <info@aasgard.de>
+ * @author  Marcel Lange <info@ask-sheldon.con>
  */
 $lang['track_admin_user'] = 'Track admin-user actions';
 $lang['track_user'] = 'Track users actions';
