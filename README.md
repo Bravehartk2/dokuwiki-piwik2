@@ -1,19 +1,20 @@
-dokuwiki-piwik2
+DokuWiki-matomo
 ===============
+DEPRECATED!!! User https://github.com/Bravehartk2/dokuwiki-matomo instead. DEPRECATED!!!
 
-This is a plugin for DokuWiki (https://www.dokuwiki.org). In integrates a editable tracking code or image into dokuwiki pages to track user actions with Piwik (see http://piwik.org/).
+This is a plugin for DokuWiki (https://www.dokuwiki.org). In integrates a editable tracking code or image into DokuWiki pages to track user actions with Matomo (see https://matomo.org/).
 
 Plugin Data
 ===============
 
 Field        | Data
 :------------|:--------------------------------------------------------------------------------------
-description  | Plugin for the new 2.0 version of Piwik, the open source Google Analytics alternative
+description  | Plugin for the new 3.5 version of Matomo (formaly Piwik), the open source Google Analytics alternative
 author       | Bravehartk2 (Marcel Lange)
 email        | info@ask-sheldon.de
 type         | admin
-lastupdate   | 2016-10-15
-compatible   | ElenorofTsort, 2016-06-26a
+lastupdate   | 2018-05-19
+compatible   | binky, 2014-04-28, Detritus, Elenor of Tsort, Frusterick Manners, Greebo
 conflicts    | piwik
 similar      | googleanalytics
 tags         | Tracking, Statistics, Piwik, Google Analytics alternativ
